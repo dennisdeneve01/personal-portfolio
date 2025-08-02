@@ -1,0 +1,3 @@
+**My Personal Software Developer Portfolio - UCT Honours Graduate**
+
+Welcome to my personal software development portfolio! Here, I showcase the culmination of my journey as a software developer, freshly graduated with Honours from the University of Cape Town (UCT). Explore a collection of projects that demonstrate my skills, dedication, and passion for crafting robust and innovative software solutions. From intricate algorithms to user-centric applications, this portfolio reflects the high standards and comprehensive knowledge I've gained, ready to tackle the next challenge in the world of technology.
